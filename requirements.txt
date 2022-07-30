@@ -1,4 +1,4 @@
 nbsnapshot
 matplotlib
-searbon
+seaborn
 scikit-learn
