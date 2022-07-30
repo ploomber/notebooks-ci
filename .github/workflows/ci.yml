@@ -26,7 +26,7 @@ jobs:
           nbsnapshot test example.ipynb --run
       - name: Update history
         run: |
-          git add -f sample.json
+          git add -f example.json
           git commit -m 'updates notebook history'
           git push
 
